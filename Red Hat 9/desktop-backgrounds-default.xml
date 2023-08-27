@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE wallpapers SYSTEM "gnome-wp-list.dtd">
+<wallpapers>
+    <wallpaper deleted="false">
+        <name>Rhel9 Dark</name>
+        <filename>/usr/share/backgrounds/rhel9-dark.jpg</filename>
+        <options>zoom</options>
+    </wallpaper>
+
+    <wallpaper deleted="false">
+        <name>Evergreen Dark1</name>
+        <filename>/usr/share/backgrounds/evergreen-dark1.jpg</filename>
+        <options>zoom</options>
+    </wallpaper>
+
+    <wallpaper deleted="false">
+        <name>Evergreen Dark2</name>
+        <filename>/usr/share/backgrounds/evergreen-dark2.jpg</filename>
+        <options>zoom</options>
+    </wallpaper>
+
+    <wallpaper deleted="false">
+        <name>Evergreen Dark3</name>
+        <filename>/usr/share/backgrounds/evergreen-dark3.jpg</filename>
+        <options>zoom</options>
+    </wallpaper>
+
+    <wallpaper deleted="false">
+        <name>Blue Gel</name>
+        <filename>/usr/share/backgrounds/blue-gel.jpg</filename>
+        <options>zoom</options>
+    </wallpaper>
+
+    <wallpaper deleted="false">
+        <name>Bokeh Hex</name>
+        <filename>/usr/share/backgrounds/bokeh-hex.jpg</filename>
+        <options>zoom</options>
+    </wallpaper>
+
+    <wallpaper deleted="false">
+        <name>Orange Extrusions</name>
+        <filename>/usr/share/backgrounds/orange-extrusions.jpg</filename>
+        <options>zoom</options>
+    </wallpaper>
+
+    <wallpaper deleted="false">
+        <name>Ping Satin</name>
+        <filename>/usr/share/backgrounds/ping-satin.jpg</filename>
+        <options>zoom</options>
+    </wallpaper>
+
+    <wallpaper deleted="false">
+        <name>Pink Contacts</name>
+        <filename>/usr/share/backgrounds/pink-contacts.jpg</filename>
+        <options>zoom</options>
+    </wallpaper>
+
+    <wallpaper deleted="false">
+        <name>Rhel9 Backlit Lines</name>
+        <filename>/usr/share/backgrounds/rhel9-backlit-lines.jpg</filename>
+        <options>zoom</options>
+    </wallpaper>
+</wallpapers>
